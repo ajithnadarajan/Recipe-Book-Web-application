@@ -1,0 +1,20 @@
+
+h1{
+    text-align: center;
+    
+}
+.brand{
+  font-family:fantasy;
+  font-weight: bold;
+  
+}
+
+.searchcenter{
+ text-align: center;
+ box-sizing: border-box;
+ 
+}
+.input{
+  background-color: whitesmoke;
+  color: black;
+}
